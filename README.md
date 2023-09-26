@@ -1,13 +1,13 @@
 <h2>🏷️ Description</h2>
-<p>🚗 A Carhub website. You can search for models and get more detailed information.</p>
-<p>You can view the site <a href="https://nextjs.org/" target="_blank">here</p>
+<p>🚗 The CarHub website. You can search for models and get more detailed information about cars for rent.</p>
+<p>You can view the site <a href="https://car-hub-alyssoncarval.vercel.app/" target="_blank">here</p>
 
 <h2>🔎 Stack</h2>
-<ul>
-    <li><a href="https://nextjs.org/" target="_blank">Next</a></li>
-    <li><a href="https://tailwindcss.com/" target="_blank">Tailwind</a></li>
-    <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></li>
-</ul>
+<div style="display: inline_block">
+  <img align="center" alt="Alysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/nextjs-original.svg">
+  <img align="center" alt="Alysson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/tailwindcss-original-wordmark.svg">
+  <img align="center" alt="Alysson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/typescript-original.svg">
+</div>
 
 <h2>📌 Knowledge</h2>
 <ul>
@@ -15,7 +15,6 @@
     <li>Headless UI</li>
     <li>Optimize Metadata and SEO</li>
     <li>Clean Code</li>
-    <li>Optimize Metadata and SEO</li>
     <li>Advanced Search Functionality</li>
 </ul>
 
