@@ -13,9 +13,9 @@
 <ul>
     <li>Responsive Design</li>
     <li>Headless UI</li>
-    <li>Optimize Metadata and SEO<li>
-    <li>Clean Code<li>
-    <li>Optimize Metadata and SEO<li>
+    <li>Optimize Metadata and SEO</li>
+    <li>Clean Code</li>
+    <li>Optimize Metadata and SEO</li>
     <li>Advanced Search Functionality</li>
 </ul>
 
