@@ -1,6 +1,6 @@
 <h2>🏷️ Description</h2>
 <p>🚗 The CarHub website. You can search for models and get more detailed information about cars for rent.</p>
-<p>You can view the site <a href="https://nextjs.org/" target="_blank">here</p>
+<p>You can view the site <a href="https://car-hub-alyssoncarval.vercel.app/" target="_blank">here</p>
 
 <h2>🔎 Stack</h2>
 <ul>
